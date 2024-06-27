@@ -1,6 +1,4 @@
-hi everyone, this is 10k Top 10 Million domain's SPF DMARC value (Demo).
-
-
+<b>50k Top 10 Million domain's SPF DMARC value (Demo).</b>
 
 
 if you want all Top 10 Million domain's SPF/DMARC value file contact me at:
